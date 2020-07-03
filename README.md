@@ -4,14 +4,25 @@ Apache-Airflow Integration to manage a workflow
 <hr>
 
 ## Table of contents
+* [Requirement](#Requirement)
 * [Setup](#Setup)
 * [Airflow](#Airflow)
 * [Contact](#Contact)
 * [Reference](#Reference)
 
 
-## Setup
+## Requirement
+- Python 3.x
+- Git
+- IDEs
+- Microsoft Azure
+- MySQL
+- (optional) Twitter account
 
+For a detailed instruction on installing each of requirement, plesae refer to below [Setup](#Setup) section
+
+
+## Setup
 
 
 
